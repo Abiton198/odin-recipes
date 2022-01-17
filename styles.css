@@ -1,15 +1,30 @@
-head {
+body {
 
-    color: red;
-    font-weight: bold;
+    background-color: peachpuff
 
-
+    
 }
 
-p {
+h1 { color:blue;}
 
-    color: goldenrod
-    font-size: medium;
-    
+.panna { 
 
+    color: sienna;
+        }
+h3 {
+    color: blue;
+    }
+
+ul {
+
+    color: seagreen;
+    }
+
+ol {
+    color: black
+}
+
+.panna {
+
+    color: sienna
 }
